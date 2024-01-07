@@ -16,7 +16,8 @@ The user wins the game when their guessed word is identical to the `answer`. The
 ![Screenshot of a won game, showing a red failure banner](docs/sad-banner.png)
 
 
-## Streach Goal -> Visual Keyboard
+## Working in Visual Keyboard
 
 In the real Wordle game, a keyboard is shown below the guesses:
 This keyboard is an important game element, since it makes it easy to tell which letters have already been tested.
+
