@@ -16,13 +16,13 @@ The user wins the game when their guessed word is identical to the `answer`. The
 ![Screenshot of a won game, showing a red failure banner](docs/sad-banner.png)
 
 
-## Working in Visual Keyboard
+## Working on Visual Keyboard
 
 In the real Wordle game, a keyboard is shown below the guesses:
 This keyboard is an important game element, since it makes it easy to tell which letters have already been tested.
 
 ## Set up guide
 Clone it, then 
-`cd project-wordle`
+`cd project-wordle` then run
 `npm run dev`
-sever will start at localhost:1234
+sever will start at `localhost:1234`
