@@ -22,7 +22,8 @@ In the real Wordle game, a keyboard is shown below the guesses:
 This keyboard is an important game element, since it makes it easy to tell which letters have already been tested.
 
 ## Set up guide
-Clone it, then 
-`cd project-wordle` then run
-`npm run dev`
-sever will start at `localhost:1234`
+1. Clone the repository.
+2. Run `npm install` to install the dependencies.
+3. Navigate to the project directory with `cd project-wordle`.
+4. Run `npm run dev`.
+5. The server will start at `localhost:1234`.
