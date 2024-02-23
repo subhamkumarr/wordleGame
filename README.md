@@ -6,7 +6,7 @@ Recreation of a popular online word game, Wordle:
 
 In Wordle, users have 6 attempts to guess a 5-letter word. You're helped along the way by ruling out letters that aren't in the word, and being told whether the correct letters are in the correct location or not.
 
-## winning and losing:
+## Winning and Loosing:
 
 The user wins the game when their guessed word is identical to the `answer`. They lose the game if they submit 6 guesses without winning.
 
