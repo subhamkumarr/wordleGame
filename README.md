@@ -1,4 +1,4 @@
-# Word Game 😀
+# Word Game 
 
 Recreation of a popular online word game, Wordle:
 
