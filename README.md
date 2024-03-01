@@ -21,7 +21,7 @@ The user wins the game when their guessed word is identical to the `answer`. The
 In the real Wordle game, a keyboard is shown below the guesses:
 This keyboard is an important game element, since it makes it easy to tell which letters have already been tested.
 
-## Set up guide
+## Set up guide:
 1. Clone the repository.
 2. Run `npm install` to install the dependencies.
 3. Navigate to the project directory with `cd project-wordle`.
