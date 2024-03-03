@@ -24,19 +24,18 @@ body:
     validations:
       required: true
   - type: dropdown
-  attributes:
-    label: Are you working on this?
-    options:
-      - 'Yes'
-      - 'No'
-  validations:
-    required: true 
+    attributes:
+      label: Are you working on this?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true 
   - type: dropdown
-  attributes:
-    label: Are you working on this?
-    options:
-      - 'Yes'
-      - 'No'
-  validations:
-    required: true 
-    
+    attributes:
+      label: Are you working on this?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true 
