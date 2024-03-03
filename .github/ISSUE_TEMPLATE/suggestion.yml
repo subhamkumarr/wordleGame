@@ -17,7 +17,7 @@ body:
     attributes:
       label: Details
       description: |
-        Please provide a explanation for what you're suggesting.
+        Please provide an explanation for what you're suggesting.
       placeholder: |
         Example:
         I think it would be helpful to have a page that explains how to use Metamask documentation.
