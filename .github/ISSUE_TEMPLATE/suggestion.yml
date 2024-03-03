@@ -33,7 +33,7 @@ body:
       required: true 
   - type: dropdown
     attributes:
-      label: Are you working on this?
+      label: Are you currently working on this?
       options:
         - 'Yes'
         - 'No'
