@@ -19,7 +19,7 @@ body:
       description: |
         What page is the typo on?
       placeholder: |
-        https:https://docs.metamask.io/
+        https://docs.metamask.io/
     validations:
       required: true
   - type: textarea
@@ -32,3 +32,11 @@ body:
         In the "useReducer" section of the "API Reference" page, the code example under "Writing a reducer function" includes an unused variable `nextId` that should be removed.
     validations:
       required: false
+  - type: dropdown
+    attributes:
+      label: Are you currently working on this?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true 
