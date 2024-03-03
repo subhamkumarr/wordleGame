@@ -31,11 +31,4 @@ body:
         - 'No'
     validations:
       required: true 
-  - type: dropdown
-    attributes:
-      label: Are you currently working on this?
-      options:
-        - 'Yes'
-        - 'No'
-    validations:
-      required: true 
+
