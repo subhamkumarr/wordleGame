@@ -10,18 +10,9 @@ body:
         A clear and concise summary of what we should add.
       placeholder: |
         Example:
-        Add a new page for how to use React with TypeScript.
+        Add a new page for how to use Metamask.
     validations:
       required: true
-  - type: input
-    attributes:
-      label: Page
-      description: |
-        What page is this about?
-      placeholder: |
-        https://react.dev/
-    validations:
-      required: false
   - type: textarea
     attributes:
       label: Details
@@ -29,6 +20,14 @@ body:
         Please provide a explanation for what you're suggesting.
       placeholder: |
         Example:
-        I think it would be helpful to have a page that explains how to use React with TypeScript. This could include a basic example of a component written in TypeScript, and a link to the TypeScript documentation.
+        I think it would be helpful to have a page that explains how to use Metamask documentation.
     validations:
       required: true
+  - type: dropdown
+  attributes:
+    label: Are you working on this?
+    options:
+      - 'Yes'
+      - 'No'
+  validations:
+    required: true 
