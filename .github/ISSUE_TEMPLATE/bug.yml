@@ -1,7 +1,7 @@
 name: 🐞 Bug
-description: Create a report to help us improve
-title: "🐞 Bug"
-labels: ["🐞 bug", "pending triage"]
+description: "Report a problem on the website."
+title: "[Bug]: "
+labels: ["bug: unconfirmed"]
 body:
 - type: checkboxes
   attributes:
