@@ -10,7 +10,7 @@ body:
         A clear and concise summary of what we should add.
       placeholder: |
         Example:
-        Add a new page for how to use Metamask.
+        Add a new page for how to use it.
     validations:
       required: true
   - type: textarea
@@ -20,7 +20,7 @@ body:
         Please provide an explanation for what you're suggesting.
       placeholder: |
         Example:
-        I think it would be helpful to have a page that explains how to use Metamask documentation.
+        I think it would be helpful to have a page that explains how to use it.
     validations:
       required: true
   - type: dropdown
