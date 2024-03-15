@@ -1,6 +1,6 @@
 # Word Game🤩
 
-Recreation of a popular online word game, Wordle:
+Tryied to recreat of a popular online word game, Wordle:
 
 ![Demo showing the finished product, our Wordle clone](docs/wordle-demo.gif)
 
