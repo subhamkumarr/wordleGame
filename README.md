@@ -1,4 +1,4 @@
-# Word Game🤩
+# Word Game
 
 Tryied to recreat of a popular online word game, Wordle:
 
